@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-   <Typography  text="hello mr Arun ms" tag='h1'/>
+   <Typography  text="hello mr Arun ms" tag='h1' className='title'> <span>hello</span> </Typography>
     </>
   )
 }
